@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRA1LcUEfgLEnQNZghdFPajsr745OgSSHp8Twe26HJuo1R6Ks5J+7ei2OBaT2Zty5rjKfA555z5qvEbJYvyuGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JTorralba\\OneDrive\\Development\\CS\\AIDA\\CAD\\CAD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JTorralba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JTorralba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
