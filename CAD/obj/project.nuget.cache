@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "sRA1LcUEfgLEnQNZghdFPajsr745OgSSHp8Twe26HJuo1R6Ks5J+7ei2OBaT2Zty5rjKfA555z5qvEbJYvyuGQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\JTorralba\\OneDrive\\Development\\CS\\AIDA\\CAD\\CAD.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\JTorralba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\JTorralba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "+mO0yCUNoLK50vBRmPuWZUQCVXmqM37SGUOGCOeMbn7y7Q/E/AmV0yxuDlJK1LOcGtbWMesy7/5h/mveDvrnVA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\JTorralba\\OneDrive - ElPasoTeller911.org\\Development\\CS\\AIDA\\CAD\\CAD.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package NETStandard.Library with version (>= 2.0.3)\r\n  - Found 3 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.0.0 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
