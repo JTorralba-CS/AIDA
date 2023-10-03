@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{1B537083-998C-48B9-AB2C-A3957E5D25BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{73498789-57E0-48FC-9F63-77C43C690CF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{8DE72ADC-2D95-42A9-A898-7EFBB118ACE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{1B537083-998C-48B9-AB2C-A3957E5D25BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B537083-998C-48B9-AB2C-A3957E5D25BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B537083-998C-48B9-AB2C-A3957E5D25BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73498789-57E0-48FC-9F63-77C43C690CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73498789-57E0-48FC-9F63-77C43C690CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73498789-57E0-48FC-9F63-77C43C690CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73498789-57E0-48FC-9F63-77C43C690CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE72ADC-2D95-42A9-A898-7EFBB118ACE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE72ADC-2D95-42A9-A898-7EFBB118ACE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE72ADC-2D95-42A9-A898-7EFBB118ACE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE72ADC-2D95-42A9-A898-7EFBB118ACE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
