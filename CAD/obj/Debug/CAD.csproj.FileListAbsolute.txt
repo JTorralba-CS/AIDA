@@ -1,0 +1,9 @@
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\bin\Debug\CAD.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\bin\Debug\CAD.pdb
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\bin\Debug\Standard.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\bin\Debug\Standard.pdb
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\obj\Debug\CAD.csproj.AssemblyReference.cache
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\obj\Debug\CAD.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\CAD\obj\Debug\CAD.pdb

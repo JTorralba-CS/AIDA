@@ -1,6 +1,7 @@
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\GUI.exe.config
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\GUI.exe
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\GUI.pdb
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\CAD.dll
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
@@ -35,6 +36,7 @@ C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\De
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\System.Threading.Channels.dll
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\CAD.pdb
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Standard.pdb
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
 C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\GUI\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml

@@ -12,6 +12,9 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Media;
 
+using CAD;
+using System.Windows.Media.TextFormatting;
+
 namespace GUI
 {
     /// <summary>
@@ -93,6 +96,13 @@ namespace GUI
                     else
                     {
                         AppendMessage(_Message);
+
+                        Message Temp = _CAD.Command(_Message.Content);
+                        if (Temp.Content != "")
+                        {
+                            _HubConnection.SendAsync("TX", Temp);
+                            Temp.Content = "";
+                        }
                     }
                 });
             });
@@ -200,6 +210,11 @@ namespace GUI
         {
             _Message.Content = _Message.Content.Trim();
 
+            if (_Message.Content == "")
+            {
+                return;
+            }
+
             BrushConverter _BrushConverter = new BrushConverter();
 
             if (_Message.User == this._Message.User || _Alias.Contains(_Message.User))
@@ -272,6 +287,8 @@ namespace GUI
                 }
             }
         }
+
+        public CAD.CAD _CAD = new CAD.CAD();
     }
 
     public class BoolInverter : IValueConverter

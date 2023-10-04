@@ -44,5 +44,11 @@
     <Compile Include="CAD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Standard\Standard.csproj">
+      <Project>{476b608a-46ac-442b-8906-db3c291e86e9}</Project>
+      <Name>Standard</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
