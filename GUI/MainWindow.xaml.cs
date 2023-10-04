@@ -44,6 +44,8 @@ namespace GUI
         {
             InitializeComponent();
 
+            RichTextBox.BorderThickness = new Thickness(0, 0, 0, 0);
+
             _Server.SetDomain("https://FLAME.Solutions/");
 
             _ChatHub.URL = _Server.Domain + "chathub";
