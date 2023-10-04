@@ -1,0 +1,10 @@
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\bin\Debug\netstandard1.0\Standard.deps.json
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\bin\Debug\netstandard1.0\Standard.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\bin\Debug\netstandard1.0\Standard.pdb
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.csproj.AssemblyReference.cache
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.AssemblyInfoInputs.cache
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.AssemblyInfo.cs
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.csproj.CoreCompileInputs.cache
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.dll
+C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Standard\obj\Debug\netstandard1.0\Standard.pdb
