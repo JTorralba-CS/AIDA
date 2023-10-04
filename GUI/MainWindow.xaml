@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        x:Name="Main"
+        Title="AIDA 1.0" Height="516" Width="960" MinWidth="960" MinHeight="516" MaxWidth="960" MaxHeight="514" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize" HorizontalAlignment="Left" VerticalAlignment="Top">
+
+    <Window.Resources>
+        <local:BoolInverter x:Key="BoolInverter"/>
+    </Window.Resources>
+
     <Grid>
-        
+        <TextBox x:Name="TextBox_ChatHub" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top" Width="855" Margin="10,10,0,0" Height="25" VerticalContentAlignment="Center" Padding="8,0,0,0" Text="{Binding URL}" IsEnabled="{Binding _IsConnected, ElementName=Main, Converter={StaticResource BoolInverter}}"/>
+        <Button x:Name="Button_Connect" Width="60" Height="25" Margin="870,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="{Binding User}" Click="Button_Connect_Click" IsEnabled="{Binding _IsConnected, ElementName=Main, Converter={StaticResource BoolInverter}}"/>
+        <RichTextBox x:Name="RichTextBox" Margin="10,46,0,0" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Hidden" BorderThickness="1" Padding="4" FontSize="14" Width="920" Height="380" HorizontalAlignment="Left" VerticalAlignment="Top" Focusable="False" IsTabStop="False" IsReadOnly="True"/>
+        <TextBox x:Name="TextBox_Message" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Top" Width="855" Margin="10,440,0,0" Height="25" VerticalContentAlignment="Center" Padding="8,0,0,0" Text="{Binding Content}" IsEnabled="{Binding _IsConnected, ElementName=Main}" />
+        <Button x:Name="Button_Send" Width="60" Height="25" Margin="870,440,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Send" Click="Button_Send_Click" IsEnabled="{Binding _IsConnected, ElementName=Main}"/>
     </Grid>
 </Window>
