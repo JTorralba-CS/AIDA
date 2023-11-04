@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:GUI"
         mc:Ignorable="d"
         x:Name="Main"
-        Title="AIDA 1.0" Height="516" Width="960" MinWidth="960" MinHeight="516" MaxWidth="960" MaxHeight="516" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize" HorizontalAlignment="Left" VerticalAlignment="Top">
+        Title="AIDA 1.0" Height="516" Width="960" MinWidth="960" MinHeight="516" MaxWidth="960" MaxHeight="516" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize" HorizontalAlignment="Left" VerticalAlignment="Top" Closing="Main_Closing" Initialized="Main_Initialized">
 
     <Window.Resources>
         <local:BoolInverter x:Key="BoolInverter"/>

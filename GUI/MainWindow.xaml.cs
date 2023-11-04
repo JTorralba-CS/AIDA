@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.SignalR.Client;
-using Standard;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +12,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Media;
 
-using CAD;
-using System.Windows.Media.TextFormatting;
+using Standard;
 
 namespace GUI
 {
@@ -289,6 +288,18 @@ namespace GUI
         }
 
         public CAD.CAD _CAD = new CAD.CAD();
+
+        private void Main_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            Message Temp = _CAD.Terminate();
+            AppendMessage(Temp);
+        }
+
+        private void Main_Initialized(object sender, EventArgs e)
+        {
+            Message Temp = _CAD.Initilaize();
+            AppendMessage(Temp);
+        }
     }
 
     public class BoolInverter : IValueConverter

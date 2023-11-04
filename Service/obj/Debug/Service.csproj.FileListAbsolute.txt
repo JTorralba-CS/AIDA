@@ -1,7 +1,0 @@
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\bin\Debug\Service.exe.config
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\bin\Debug\Service.exe
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\bin\Debug\Service.pdb
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\obj\Debug\Service.csproj.AssemblyReference.cache
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\obj\Debug\Service.exe
-C:\Users\JTorralba\OneDrive - elpasoteller911.org\Development\CS\AIDA\Service\obj\Debug\Service.pdb
